@@ -40,11 +40,11 @@ https://demoniacult.com/ (als dit mag)
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage 
-<img src="images/schoen1.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="OneDrive/Pictures/schoen1.jpg" width="375px" alt="homepagina van demonia schoenen">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/schoen2.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="OneDrive/Pictures/schoen2.jpg" width="375px" alt="Knielengte demonia schoenen">
  
 </details>
 
