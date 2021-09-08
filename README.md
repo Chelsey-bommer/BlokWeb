@@ -58,13 +58,13 @@ Producten pagina (deze verander ik later miss nog naar andere producten)
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/screen-hele.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/screen-hele.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/screen-half1.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/screen-half1.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/screen-half2.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="images/screen-half2.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
