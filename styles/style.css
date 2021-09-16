@@ -1,5 +1,109 @@
-/* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+
+/***********************************
+***************FONTS***************
+***********************************/
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');  /* special elite */
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');  /* Courier */
+
+
+
+
+
+/***********************************
+*********CUSTOM PROPERTIES**********
+***********************************/
+
+:root {
+    --main-color: #000000;
+    --secondary-color: #FFFFFF;
+}
+
+
+
+
+/***********************************
+*********BODY STYLES***************
+***********************************/
+body {
+    margin:0;
+    position:relative;
+    width:100%;
+}
+
+
+
+
+
+
+
+/***********************************
+********HEADER STYLES***************
+***********************************/
+header {
+    font-family: 'Courier New', Courier, monospace;
+    color: var(--secondary-color);
+    background-color: var(--main-color);
+
+    text-align: center;
+    
+
+}
+
+header p {
+
+    text-transform: uppercase;
+    font-weight:400;
+    font-size:14px;
+    line-height:23px;
+   
+    /*MARGIN AND PADDING VAN TEKST */
+    padding-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.5em;
+    
+}
+
+header img:nth-of-type(1) {
+    margin-top: 0.5em;
+    width:8.5em;
+    max-width: 160px;
+}
+
+header img:nth-of-type(2) {
+    width:1.8em;
+    position:absolute;
+    top:0.3em;
+    right:1.2em;
+}
+
+header img:nth-of-type(3) {
+    width:1.5em;
+    position:absolute;
+    top:0.9em;
+    right:4em;
+}
+
+header img:nth-of-type(4) {
+    width:1.2em;
+    position:absolute;
+    top:0.9em;
+    left:3.5em;
+}
+
+header nav button img:nth-of-type(1) {
+  width:1.5em;
+  position:absolute;
+  top:1em;
+  left:1em;
+}
+
+header button {
+ margin:0%;
+ background-color: var(--main-color);
+ border:none;
+ 
+ 
 }
 
