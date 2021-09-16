@@ -87,12 +87,9 @@ Ik vond door de breakdown schets het vrij makkelijk om de html te schrijven. De 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+ Wat ik wil vragen:
+ -hoe zorg ik dat het niet meer inzoomt op grotere schermen?
+ -is er nog iets niet kloppend etc
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
