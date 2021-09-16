@@ -78,7 +78,10 @@ Producten pagina (deze verander ik later miss nog naar andere producten)
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik vond door de breakdown schets het vrij makkelijk om de html te schrijven. De css ging daarna ook wel goed, maar ik moet nog
+ erop letten dat ik die netjes houd. 
+ Ik heb mijn css nu half netjes:
+ <img src="images/.png" width="375px" alt="Screenshot van mijn CSS">
 
 
 ### Agenda voor meeting
