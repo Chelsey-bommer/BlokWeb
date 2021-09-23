@@ -123,21 +123,17 @@ Deze week ging ik verder met de slideshow, maar deze was heel lastig. Het is nog
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Chelsey        | Maxime             | Jessica/Bilal/Thije      | student 4        |
+| Chelsey        | Maxime             | Jessica/Bilal/Thije      | Fabian           |
 | ---            | ---                | ---                      | ---              |
-|Slideshow maken?| Hamburger          | Voorgaande onderwerpen   | en dan ik dat    |
-|Hoe             | Menu               |                          | dit wil ik zeker |
+|Slideshow maken?| Hamburger          | Voorgaande onderwerpen   | Images groter    |
+|Hoe             | Menu               |                          | in verhouding blijven |
  gedetailleerd?  | ...                | ...                      | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
+- 
 </details>
 
 
