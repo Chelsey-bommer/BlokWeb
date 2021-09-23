@@ -112,21 +112,21 @@ Uitkomsten van de meeting:
 Deze week ging ik verder met de slideshow, maar deze was heel lastig. Het is nog niet helemaal gelukt 
  deze te maken. Ik heb wel alle foto's naast elkaar waar je doorheen kan swipen, maar heb nog niet de transities uit zichzelf.
  
- <img src="images/voortgang1.png" width="375px" alt="Screenshot van mijn voortgang">
+ <img src="images/Voortgang1.png" width="375px" alt="Screenshot van mijn voortgang">
  
  Om wel verder te gaan was ik ook vast een grid met producten aan het maken, en de bijbehorende buttons. Dit ging wel goed.
  
- <img src="images/voortgang1.png" width="375px" alt="Screenshot van mijn voortgang">
+ <img src="images/voortgang2.png" width="375px" alt="Screenshot van mijn voortgang">
  
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Chelsey        | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+|Slideshow maken?| en dit             | en ik dit    | en dan ik dat    |
+| hoe            | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
