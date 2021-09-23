@@ -123,10 +123,10 @@ Deze week ging ik verder met de slideshow, maar deze was heel lastig. Het is nog
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Chelsey        | student 2          | student 3    | student 4        |
+| Chelsey        | Maxime             | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-|Slideshow maken?| en dit             | en ik dit    | en dan ik dat    |
-| hoe            | dit als er tijd is | nog een punt | dit wil ik zeker |
+|Slideshow maken?| Hamburger          | en ik dit    | en dan ik dat    |
+| hoe            | Menu               | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
