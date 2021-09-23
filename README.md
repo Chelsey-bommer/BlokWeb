@@ -92,12 +92,10 @@ samen met je groepje opstellen
  -is er nog iets niet kloppend etc
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Uitkomsten van de meeting:
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- We hebben opgelost dat de pagina niet meer inzoomde met width
+- Ze vonden het verder prima
 
 </details>
 
@@ -111,7 +109,15 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Deze week ging ik verder met de slideshow, maar deze was heel lastig. Het is nog niet helemaal gelukt 
+ deze te maken. Ik heb wel alle foto's naast elkaar waar je doorheen kan swipen, maar heb nog niet de transities uit zichzelf.
+ 
+ <img src="images/voortgang1.png" width="375px" alt="Screenshot van mijn voortgang">
+ 
+ Om wel verder te gaan was ik ook vast een grid met producten aan het maken, en de bijbehorende buttons. Dit ging wel goed.
+ 
+ <img src="images/voortgang1.png" width="375px" alt="Screenshot van mijn voortgang">
+ 
 
 
 ### Agenda voor meeting
