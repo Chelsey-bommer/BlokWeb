@@ -240,6 +240,6 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 1. Sanne: https://www.sinds1971.nl/fed/bolletjes/ https://codepen.io/shooft/pen/oNzGJMM Slideshow
 2. Font Special Elite: https://fonts.google.com/specimen/Special+Elite
 3. Font Courier: https://fonts.google.com/specimen/Courier+Prime?query=couri#standard-styles
-4.  
+4.  Flex-shirnk:  https://cssreference.io/property/flex-shrink/
 
 </details>
