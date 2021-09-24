@@ -237,8 +237,9 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. Sanne: https://www.sinds1971.nl/fed/bolletjes/ https://codepen.io/shooft/pen/oNzGJMM Slideshow
+2. Font Special Elite: https://fonts.google.com/specimen/Special+Elite
+3. Font Courier: https://fonts.google.com/specimen/Courier+Prime?query=couri#standard-styles
+4.  
 
 </details>
