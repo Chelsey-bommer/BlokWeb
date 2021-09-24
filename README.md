@@ -32,7 +32,7 @@ Responsive
 
 ## Je website
 
-<details open>
+<details>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
@@ -105,7 +105,7 @@ Uitkomsten van de meeting:
 
 ## Voortgang 2 (week 3)
 
-<details>
+<details open>
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
@@ -133,7 +133,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- 
+- We hebben slideshow samen gemaakt, waar ik nog wel wat uit kan halen. 
+    https://codepen.io/chelsey-bommer/pen/vYZzQMp?editors=1100
+ -Qua strengheid laten zien wat je kan met code 
 </details>
 
 
