@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Jij
 
-<details open>
+<details>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
@@ -105,7 +105,7 @@ Uitkomsten van de meeting:
 
 ## Voortgang 2 (week 3)
 
-<details open>
+<details>
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
@@ -144,34 +144,46 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Toegankelijkheidstest (week 4)
 
-<details>
+<details open>
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
+-Voeg altijd Alts toe (narrator)
+-Wanneer je een hamburger menu hebt, wordt deze opgenoemt (narrator)
+-Wanneer je 2 talen hebt is het onhandig (narrator)
+-Ik moet nog states toevoegen
+-In chrome krijg je extra scrollbalken
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Alts toevoegen
+Wanneer je geen Alts toevoegd zegt de narrator niet wat je moet zien. Ik had dit nog niet overal gedaan
+ (wel op sommige plekken). 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+ Oplossing: Voeg omschrijvingen toe aan de alt.
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Hamburger menu narrator
+Wanneer je een verborgen menu hebt word deze ook opgelezen door de narrator.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+ Sanne zei dat dit moeilijk was om op te lossen, dus dat dit niet hoefde. Alleen als je advanced bent.
+
+
+#### 2 talen onhandig 
+Wanneer je meer dan 1 taal hebt in je website wordt 1 van de 2 slecht opgelezen. Dit komt doordat je
+ de narrator altijd in een vaste taal zet.
+
+Oplossing: Gebruik maar 1 taal, als dit lukt. De site die ik namaak heeft wel allebei, dus ik doe dit ook. 
+
+
+#### States
+Ik had nog heel weinig states toegevoegd.
+
+Oplossing: Voeg alle states toe.
+ 
+ 
+#### Scrollbalken 
+In chrome als je je website op responsive zet, krijg je soms vage extra scrollbalken op je website.
+
+Oplossing: gebruikt geen Chrome, of zet hem op een vast formaat.
 
 </details>
 
