@@ -197,16 +197,17 @@ Oplossing: gebruikt geen Chrome, of zet hem op een vast formaat.
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Door de hulp van Rowin heb ik mijn slideshow en hamburgermenu af kunnen maken.
+ 
+  <img src="images/week4.png" width="375px" alt="Screenshot van mijn voortgang">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Chelsey        | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Geen vragen    | en dit             | en ik dit    | en dan ik dat    |
+|                | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
