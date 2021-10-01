@@ -127,51 +127,65 @@ header button {
 /* NAV STYLES */
 
 nav {
-    margin:0;
     padding:0;
 
     font-family: 'Special Elite', cursive;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 13px;
 
     position:relative;
-    
+
 }
 
+/* positie en styles van menu */
 nav ul {
     list-style: none;
 
     margin:0;
     padding:0;
 
-
     position:fixed;
     top:3em;
 	left:0em;
-	right:0em;
-	bottom:70%;
+	right:30%;
+	bottom:0;
 
     z-index: 99;
-    transform:translateX(-98%);
+    transform:translateX(-100%);
+    transition: .2s;
 
     background-color: var(--main-color);
-    
+
+    text-align: left;
 }
 
-nav button img {
-    z-index: 100;
-}
-
+/* menu button */
 nav button {
     position: absolute;
     top:-10em;
     left:.5em;
 }
 
+nav button img {
+    z-index: 100;
+}
+
+/* Vlag in het menu */
+nav img:last-of-type{
+    width:12%;
+}
+
+/* Tekst plaatsing */
 nav ul li{
-    margin:1em;
+    margin-left:10%;
+    margin-right: 5%;
+    margin-top: 10%;
     padding:0;
 
     background-color: var(--main-color);
 }
+
 
 nav ul li a {
     color: var(--secondary-color);
@@ -179,15 +193,17 @@ nav ul li a {
 
     margin:0;
     padding:0;
+
+    
 }
 
+/* Menu in/uitklappen */
 nav ul.MenuAdd {
     transform:translateX(0%);
 }
 
 
 /* STATES */
-
 
  nav img:hover, a:hover, img:hover {
     border-bottom: solid .1em var(--secondary-color);
@@ -200,6 +216,8 @@ nav img:first-of-type:hover {
 nav img:active, a:active, img:active {
     border: dashed .1em var(--secondary-color);
 }
+
+
 
 
 
@@ -223,7 +241,7 @@ h3 {
 /***********************************
 ********SLIDESHOW STYLES************
 ***********************************/
-
+/* Slideshow foto's */
  section:first-of-type ul:first-of-type {
     margin:0;
     padding: 0;
@@ -246,6 +264,7 @@ section:first-of-type ul:nth-of-type(2) {
     justify-content: center;
 }
 
+/* Slideshow foto's */
 section:first-of-type ul:first-of-type li  {
     flex-shrink:0;
     width:100%;
@@ -255,11 +274,12 @@ section:first-of-type ul:first-of-type li  {
 /* Knoppen */
 section:first-of-type ul:nth-of-type(2) li  {
     flex-shrink:0;
-    width:10%;
-    margin:0;
+    width:3%;
+    margin:.5em;
     
 }
 
+/* Slideshow foto's */
 section:first-of-type ul:first-of-type li a img {
     width:100%;
     
@@ -273,9 +293,7 @@ section:first-of-type ul:nth-of-type(2) li a img {
 }
  
 
-
 /* Shop collection button en tekst*/
-
 section:nth-of-type(1) {
     position:relative;
 }
@@ -283,9 +301,7 @@ section:nth-of-type(1) {
 section:nth-of-type(1) section {
     position: absolute;
     top:40%;
-    left:6em;
-
-    
+    left:6em;  
 }
 
 section:first-of-type h2{
@@ -355,8 +371,7 @@ section:nth-of-type(2) ul {
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-content: center;
-   
-   
+     
 }
 
 section:nth-of-type(2) ul li:nth-of-type(4) {
@@ -497,8 +512,8 @@ section:nth-of-type(4){
 }
 
 
-section:nth-of-type(4) ul {
-    margin-bottom:15%;
+section:nth-of-type(4) ul:first-of-type {
+    margin-bottom:5%;
     padding: 0;
 
     list-style: none;
@@ -507,21 +522,46 @@ section:nth-of-type(4) ul {
 
 }
 
-section:nth-of-type(4) ul li {
+/* knoppen */
+section:nth-of-type(4) ul:last-of-type {
+    margin-bottom:15%;
+    padding: 0;
+
+    list-style: none;
+    display:flex;
+    justify-content: center;
+
+}
+
+section:nth-of-type(4) ul:first-of-type li {
     width:100%;
+    flex-shrink: 0;
+
+}
+
+/*Knoppen*/
+section:nth-of-type(4) ul:last-of-type li {
+    width:3%;
+    margin:.5em;
     flex-shrink: 0;
 }
 
-section:nth-of-type(4) ul li img {
+section:nth-of-type(4) ul:first-of-type li img {
     width:60%;
     flex-shrink: 0;
 }
 
-section:nth-of-type(4) ul li p:first-of-type {
+section:nth-of-type(4) ul:last-of-type li img {
+    width:100%;
+    flex-shrink: 0;
+    
+}
+
+section:nth-of-type(4) ul:first-of-type li p:first-of-type {
     font-size: 14px;
 }
 
-section:nth-of-type(4) ul li p:last-of-type  {
+section:nth-of-type(4) ul:first-of-type li p:last-of-type  {
     font-size: 15px;
     font-weight: bolder;
 }

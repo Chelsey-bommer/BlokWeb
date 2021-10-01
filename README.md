@@ -12,17 +12,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Jij
 
-<details>
+<details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Chelsey Bommer
+Sanne 't Hooft (vervangen door jouw naam)
 
 #### Je startniveau:
-Blauw
+hier je startniveau (kies uit zwart, rood óf blauw)
 
 #### Je focus:
-Responsive
+hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -32,19 +32,19 @@ Responsive
 
 ## Je website
 
-<details>
+<details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-demoniacult.com
+link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Homepage
-<img src="images/schoen1.jpg" width="375px" alt="Homepagina van demoniacult">
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Producten pagina (deze verander ik later miss nog naar andere producten)
-<img src="images/schoen2.jpg" width="375px" alt="productenpagina demoniacult">
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -58,13 +58,13 @@ Producten pagina (deze verander ik later miss nog naar andere producten)
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/screen-hele.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/screen-half1.png" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/screen-half2.png" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -78,24 +78,26 @@ Producten pagina (deze verander ik later miss nog naar andere producten)
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-Ik vond door de breakdown schets het vrij makkelijk om de html te schrijven. De css ging daarna ook wel goed, maar ik moet nog
- erop letten dat ik die netjes houd. 
- Ik heb mijn css nu half netjes:
- <img src="images/css.png" width="375px" alt="Screenshot van mijn CSS">
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
- Wat ik wil vragen:
- -hoe zorg ik dat het niet meer inzoomt op grotere schermen?
- -is er nog iets niet kloppend etc
+| student 1      | student 2          | student 3    | student 4        |
+| ---            | ---                | ---          | ---              |
+| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| ...            | ...                | ...          | ...              |
+
 
 ### Verslag van meeting
-Uitkomsten van de meeting:
+hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- We hebben opgelost dat de pagina niet meer inzoomde met width
-- Ze vonden het verder prima
+- punt 1
+- punt 2
+- nog een punt
+- ...
 
 </details>
 
@@ -109,33 +111,27 @@ Uitkomsten van de meeting:
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-Deze week ging ik verder met de slideshow, maar deze was heel lastig. Het is nog niet helemaal gelukt 
- deze te maken. Ik heb wel alle foto's naast elkaar waar je doorheen kan swipen, maar heb nog niet de transities uit zichzelf.
- 
- <img src="images/Voortgang1.png" width="375px" alt="Screenshot van mijn voortgang">
- 
- Om wel verder te gaan was ik ook vast een grid met producten aan het maken, en de bijbehorende buttons. Dit ging wel goed.
- 
- <img src="images/voortgang2.png" width="375px" alt="Screenshot van mijn voortgang">
- 
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Chelsey        | Maxime             | Jessica/Bilal/Thije      | Fabian           |
-| ---            | ---                | ---                      | ---              |
-|Slideshow maken?| Hamburger          | Voorgaande onderwerpen   | Images groter    |
-|Hoe             | Menu               |                          | in verhouding blijven |
- gedetailleerd?  | ...                | ...                      | ...              |
+| student 1      | student 2          | student 3    | student 4        |
+| ---            | ---                | ---          | ---              |
+| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- We hebben slideshow samen gemaakt, waar ik nog wel wat uit kan halen. 
-    https://codepen.io/chelsey-bommer/pen/vYZzQMp?editors=1100
- -Qua strengheid laten zien wat je kan met code 
+- punt 1
+- punt 2
+- nog een punt
+- ...
+
 </details>
 
 
@@ -144,46 +140,34 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Toegankelijkheidstest (week 4)
 
-<details open>
+<details>
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
--Voeg altijd Alts toe (narrator)
--Wanneer je een hamburger menu hebt, wordt deze opgenoemt (narrator)
--Wanneer je 2 talen hebt is het onhandig (narrator)
--Ik moet nog states toevoegen
--In chrome krijg je extra scrollbalken
+Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Alts toevoegen
-Wanneer je geen Alts toevoegd zegt de narrator niet wat je moet zien. Ik had dit nog niet overal gedaan
- (wel op sommige plekken). 
+#### Titel eerste bevinding
+Hier korte omschrijving (met indien nodig een afbeelding)
 
- Oplossing: Voeg omschrijvingen toe aan de alt.
+Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### Hamburger menu narrator
-Wanneer je een verborgen menu hebt word deze ook opgelezen door de narrator.
+#### Titel tweede bevinding. 
+Hier korte omschrijving (met indien nodig een afbeelding)
 
- Sanne zei dat dit moeilijk was om op te lossen, dus dat dit niet hoefde. Alleen als je advanced bent.
-
-
-#### 2 talen onhandig 
-Wanneer je meer dan 1 taal hebt in je website wordt 1 van de 2 slecht opgelezen. Dit komt doordat je
- de narrator altijd in een vaste taal zet.
-
-Oplossing: Gebruik maar 1 taal, als dit lukt. De site die ik namaak heeft wel allebei, dus ik doe dit ook. 
+Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### States
-Ik had nog heel weinig states toegevoegd.
+#### Titel volgende bevinding. 
+Hier korte omschrijving (met indien nodig een afbeelding)
 
-Oplossing: Voeg alle states toe.
- 
- 
-#### Scrollbalken 
-In chrome als je je website op responsive zet, krijg je soms vage extra scrollbalken op je website.
+Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
-Oplossing: gebruikt geen Chrome, of zet hem op een vast formaat.
+
+#### Titel nog een bevinding. 
+Hier korte omschrijving (met indien nodig een afbeelding)
+
+Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 </details>
 
@@ -197,18 +181,16 @@ Oplossing: gebruikt geen Chrome, of zet hem op een vast formaat.
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-Het ging goed met mijn website deze week. Met de hulp van Rowin heb ik mijn hamburger menu en slideshows kunnen fixen.
- 
- <img src="images/week4" width="375px" alt="Screenshot van mijn voortgang">
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Ik             | Thije              | Bilal        | milo             |
+| student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| Geen vragen    | en dit             | en ik dit    | en dan ik dat    |
-|                | dit als er tijd is | nog een punt | dit wil ik zeker |
+| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
@@ -251,10 +233,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. Sanne: https://www.sinds1971.nl/fed/bolletjes/ https://codepen.io/shooft/pen/oNzGJMM Slideshow
-2. Font Special Elite: https://fonts.google.com/specimen/Special+Elite
-3. Font Courier: https://fonts.google.com/specimen/Courier+Prime?query=couri#standard-styles
-4.  Flex-shirnk:  https://cssreference.io/property/flex-shrink/
-5.  Flex-wrap: https://css-tricks.com/almanac/properties/f/flex-wrap/ 
+1. bron 1
+2. bron 2
+3. ...
 
 </details>
