@@ -40,11 +40,12 @@ demoniacult.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage
+ 
 <img src="images/schoen1.jpg" width="375px" alt="Homepagina van demoniacult">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Producten pagina (deze verander ik later miss nog naar andere producten)
-<img src="https://demoniacult.com/collections/all" width="375px" alt="productenpagina demoniacult">
+Producten pagina 
+<img src="images/screenie.png" width="375px" alt="productenpagina demoniacult">
  
 </details>
 
@@ -214,10 +215,8 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Ik heb mijn website laten zien aan Rowin.
+-Ik vroeg nog of het hoort dat je een stukje naar beneden gaat bij de slideshow, maar dit kon je niet veranderen dus. 
 
 </details>
 
@@ -231,11 +230,19 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het uiterlijk van de mobiele versies ging erg goed, daar ben ik trots op. Ook dat
+ ik het menu van de ipad weer anders heb gekregen ben ik blij mee.
+ 
+ <img src="images/screenie2.png" width="375px" alt="Screenshot van mijn voortgang">
+ 
+ Wat niet helemaal wilde lukken is de focus state bij alle elementen. Deze staan er door tijd gebrek
+ niet goed bij alle images.
+ 
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="images/screen1.png" width="375px" alt="Screenshot van mijn voortgang">
+ <img src="images/screen2.png" width="375px" alt="Screenshot van mijn voortgang">
 
 </details>
 
