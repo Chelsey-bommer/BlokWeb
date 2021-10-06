@@ -44,7 +44,7 @@ Homepage
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Producten pagina (deze verander ik later miss nog naar andere producten)
-<img src="images/schoen2.jpg" width="375px" alt="productenpagina demoniacult">
+<img src="https://demoniacult.com/collections/all" width="375px" alt="productenpagina demoniacult">
  
 </details>
 
